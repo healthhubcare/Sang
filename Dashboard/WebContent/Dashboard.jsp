@@ -7,8 +7,8 @@
 <title>Navigation bar</title>
 <link rel="stylesheet"  href="./Style/dash.css" type="text/css">
 </head>
-<body style="font-family:sans-serif;
-background-image: url(./Image/i1.jpg);
+<body style=
+"background-image: url(./Image/i1.jpg);
    background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -29,11 +29,7 @@ background-image: url(./Image/i1.jpg);
 </li>
 <li><a href="#">Personal Banking</a>
 <ul>
-  <li><a href="#">Accounts</a>
-  <ul>
-  <li><a href="#">Savings Account</a></li>
-  <li><a href="#">Current Account</a></li>
-  </ul></li>
+  <li><a href="#">Accounts</a></li>
    <li><a href="#">Insta Bill Payment</a></li>
     <li><a href="#">Loans</a></li>
         <li><a href="#">Transactions</a></li>
